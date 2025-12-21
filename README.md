@@ -122,4 +122,4 @@ This repository contains assessed work for the **Computer Infrastructure** modul
 **Author:** Susan Collins  
 
 The assessment brief can be found here:  
-[assessment.md](https://github.com/ianmcloughlin/computer-infrastructure/blob/main/assessment/assessment.md)
+[problems.md](https://github.com/ianmcloughlin/computer-infrastructure/blob/main/assessment/problems.md)
